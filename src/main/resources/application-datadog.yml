@@ -16,4 +16,4 @@
 
 management.metrics.export.datadog:
   enabled: true
-  apiKey: 09d9097220b84569f690d3b2dac9f787
+  apiKey: <YOUR-API-KEY>
