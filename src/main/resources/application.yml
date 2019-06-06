@@ -1,0 +1,6 @@
+server.port: 8080
+
+logging.level.org.springframework.integration.support.MessageBuilder: WARN
+logging.level.org.springframework.boot: INFO
+
+management.endpoints.web.exposure.include: '*'

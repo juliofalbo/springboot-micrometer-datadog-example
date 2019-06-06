@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micrometer-samples-spring-boot.iml" filepath="$PROJECT_DIR$/micrometer-samples-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micrometer-samples-spring-boot.main.iml" filepath="$PROJECT_DIR$/.idea/modules/micrometer-samples-spring-boot.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micrometer-samples-spring-boot.test.iml" filepath="$PROJECT_DIR$/.idea/modules/micrometer-samples-spring-boot.test.iml" />
+    </modules>
+  </component>
+</project>

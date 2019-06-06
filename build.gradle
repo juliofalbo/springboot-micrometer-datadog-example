@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.0.3.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.5.RELEASE'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "io.micrometer:micrometer-registry-datadog:1.0.5"
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile 'org.springframework.boot:spring-boot-starter-actuator'
+    compile 'com.netflix.hystrix:hystrix-javanica:1.5.8'
+}
